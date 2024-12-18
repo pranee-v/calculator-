@@ -1,4 +1,4 @@
-# chat-application-
-simple chat application using java 
-Author-Praneeth Veeranki
+# calculator 
+simple calculator app uisng html, css and js 
+
 
